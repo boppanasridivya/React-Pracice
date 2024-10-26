@@ -1,0 +1,17 @@
+.myCart{
+    /* border: 1px solid black; */
+    display: flex;
+    justify-content: space-between;
+    width: 300px;
+}
+.buttonqty{
+    display: flex;
+    height: 30px;
+    width: 50%;
+    align-items: center;
+    justify-content: center;
+    /* border: 1px solid black; */
+    /* padding-left: 100px; */
+    margin-top: 8px;
+
+}
