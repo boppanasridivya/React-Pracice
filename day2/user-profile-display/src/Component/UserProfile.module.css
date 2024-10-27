@@ -1,0 +1,55 @@
+.header{
+    color: teal;
+    max-width: 700px;
+}
+.card{
+    border: 1px solid black;
+    display: flex;
+   
+   
+    max-width:650px ;
+}
+.myImage{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin: 10px;
+    /* object-fit: fill; */
+    display: flex;
+    object-fit: cover;
+    align-items: center;
+    justify-content: center;
+}
+.postsFollowers{
+    display:flex;
+    justify-content: space-around;
+    gap: 20px;
+    margin-left: 15px;
+    
+    
+}
+.card p{
+    display: flex;
+}
+.btn{
+   border-radius: 5px;
+    margin-top: 115px;
+    height: 30px;
+    width: 80px;
+    border: 1px solid black;
+    display: block;
+    margin-left: 120px;
+
+
+}
+.myName{
+    margin-left: 10px;
+}
+.myName p{
+    margin-left: 10px;
+}
+.courses{
+   border: 1px solid black;
+   width: 650px;
+}
